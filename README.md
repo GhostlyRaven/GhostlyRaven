@@ -10,10 +10,10 @@
 
 <h1>Контакты</h1>
 <div>
-  <a href="https://t.me/klg_whit" target="_blank">
+  <a href="https://t.me/klg_whit" target="_blank" style="text-decoration: none;">
     <img src="https://img.icons8.com/?size=50&id=oWiuH0jFiU0R&format=png&color=000000" alt="https://t.me/klg_whit"/>
   </a>
-  <a href="mailto:klg.whit@yandex.ru" target="_blank">
+  <a href="mailto:klg.whit@yandex.ru" target="_blank" style="text-decoration: none;">
     <img src="https://img.icons8.com/?size=50&id=OumT4lIcOllS&format=png&color=000000" alt="klg.whit@yandex.ru"/>
   </a>
 </div>
